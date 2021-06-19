@@ -3,5 +3,6 @@
 ## Dit is het tweede examen css
 
 > Veel plezier met verbeteren!
+> Het was een hevige strijd!!
 
-> !!SURGE LINK HIER!!
+> https://thomasgaatbierdrinken.surge.sh/
